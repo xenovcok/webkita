@@ -36,6 +36,8 @@ module.exports.routes = {
     view: 'home/index'
   }
 
+
+
   /***************************************************************************
   *                                                                          *
   * Custom routes here...                                                    *
